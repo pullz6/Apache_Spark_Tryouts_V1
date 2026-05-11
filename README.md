@@ -3,3 +3,6 @@
 Need to add a few scripts on how to deal with streaming data
 
 Apache kafka
+
+
+need to add kafka stuff
